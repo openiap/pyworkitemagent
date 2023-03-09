@@ -1,0 +1,11 @@
+{
+  "name": "pyworkitemagent",
+  "version": "0.0.1",
+  "description": "Example agent processing workitems from a queue",
+  "main": "main.py",
+  "author": "OpenIAP ApS / Allan Zimmermann",
+  "license": "MPL-2.0",
+  "scripts": {
+  },
+  "keywords": []
+}
