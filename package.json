@@ -5,6 +5,9 @@
   "main": "main.py",
   "author": "OpenIAP ApS / Allan Zimmermann",
   "license": "MPL-2.0",
+  "openiap": {
+    "daemon": true
+  },
   "scripts": {
   },
   "keywords": []
