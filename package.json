@@ -1,14 +1,15 @@
 {
-  "name": "pyworkitemagent",
-  "version": "0.0.1",
-  "description": "Python agent processing workitems from a queue",
-  "main": "main.py",
-  "author": "OpenIAP ApS / Allan Zimmermann",
-  "license": "MPL-2.0",
-  "openiap": {
-    "daemon": true
-  },
-  "scripts": {
-  },
-  "keywords": []
+    "name": "pyworkitemagent",
+    "version": "0.0.1",
+    "description": "Python agent processing workitems from a queue",
+    "main": "main.py",
+    "author": "OpenIAP ApS / Allan Zimmermann",
+    "license": "MPL-2.0",
+    "openiap": {
+        "daemon": true,
+        "language": "python",
+        "chromium": false
+    },
+    "scripts": {},
+    "keywords": []
 }
