@@ -1,0 +1,3 @@
+# remove .old from the filename to have these packages installed before running main entry point
+openiap
+pip-install-test
