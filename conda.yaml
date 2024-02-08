@@ -1,0 +1,9 @@
+name: pyworkitemagent
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python
+    - pip
+    - pip:
+      - openiap==0.0.34
