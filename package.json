@@ -1,6 +1,6 @@
 {
     "name": "pyworkitemagent",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Python agent processing workitems from a queue",
     "main": "main.py",
     "author": "OpenIAP ApS / Allan Zimmermann",
